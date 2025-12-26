@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Senior full-stack developer with 20+ years of experience, Oslo-based. Technology-agnostic across web, mobile, and cloud. Experienced in AI-powered systems and AI-assisted development (Claude, Codex, Cursor), with a pragmatic focus on quality and maintainability.
+
 <!--
 **VadimCpp/vadimcpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
