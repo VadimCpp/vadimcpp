@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a senior full-stack developer with 20+ years of experience, Oslo-based. Technology-agnostic across web, mobile, and cloud. Experienced in AI-powered systems and AI-assisted development (Claude, Codex, Cursor), with a pragmatic focus on quality and maintainability.
+I am a senior full-stack developer with 20+ years of experience, Oslo-based. Technology-agnostic across web, mobile, and cloud. Experienced in AI-powered systems and AI-assisted development, with a pragmatic focus on quality and maintainability.
 
 _Arbeidsspråk: norsk, engelsk_
 
